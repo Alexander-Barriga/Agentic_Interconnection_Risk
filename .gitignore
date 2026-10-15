@@ -1,0 +1,13 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data and model artifacts (kept local; not versioned)
+Data_ML_SQL/
+Data_RAG/
+Models/
